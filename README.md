@@ -23,3 +23,8 @@
 - Семинар и ДЗ №2: https://www.kaggle.com/code/timofeev25/misis-ml-2024-sem2?scriptVersionId=213367624
 - Данные для ДЗ №2: https://www.kaggle.com/datasets/iremnurtokuroglu/credit-score-classification-cleaned-dataset
 - Дедлайн: выставление оценок
+
+## Занятие 5. Pytorch и pytorch lightning
+
+- Лекция: https://disk.yandex.ru/d/RFHgqDf0quZXFQ
+- 
