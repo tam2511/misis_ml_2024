@@ -30,7 +30,7 @@
 - Семинар: https://www.kaggle.com/code/timofeev25/misis-ml-seminar-4-1
 - Дедлайн: выставление оценок
 
-## Занятие 6. Полезные прпимитивы для обучения нейросетей. Torchmetrics, callbacks, torchvision, torchtext и тд.
+## Занятие 6. Полезные примитивы для обучения нейросетей. Torchmetrics, callbacks, torchvision, torchtext и тд.
 
 - Лекция: Скоро будет
 - Семинар: Скоро будет
