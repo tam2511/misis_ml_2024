@@ -32,8 +32,8 @@
 
 ## Занятие 6. Полезные примитивы для обучения нейросетей. Torchmetrics, callbacks, torchvision, torchtext и тд.
 
-- Лекция: Скоро будет
-- Семинар: Скоро будет
+- Лекция: https://disk.yandex.ru/d/IYXFLRQo9BubgA
+- Семинар: https://www.kaggle.com/code/timofeev25/misis-ml-2024-sem6
 
 ## Занятие 7. Оптимизация и инференс моделей.  
 - Лекция: Скоро будет
