@@ -36,8 +36,8 @@
 - Семинар: https://www.kaggle.com/code/timofeev25/misis-ml-2024-sem6
 
 ## Занятие 7. Оптимизация и инференс моделей.  
-- Лекция: Скоро будет
-- Семинар: Скоро будет
+- Лекция: https://disk.yandex.ru/d/IR-Dr_Fs9qUhOA
+- Семинар: https://www.kaggle.com/code/timofeev25/notebook243638a126/notebook
 - ДЗ: https://www.kaggle.com/code/timofeev25/notebook243638a126/notebook
 - Дедлайн: выставление оценок
 
