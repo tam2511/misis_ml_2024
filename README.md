@@ -42,5 +42,5 @@
 - Дедлайн: выставление оценок
 
 ## Занятие 8. MLops
-- Лекция: Скоро будет
-- Семинар: Скоро будет
+- Лекция: https://disk.yandex.ru/i/wZSVKQ8wQ-XRLA
+- Семинар: https://www.kaggle.com/code/timofeev25/misis-ml-2024-sem8
